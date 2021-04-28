@@ -1,0 +1,155 @@
+{
+  "accounts": [
+    {
+      "type": "CURRENT",
+      "id": "324133",
+      "balance": 1900,
+      "history": [
+        {
+          "balance": 0,
+          "amount": 0,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5000,
+          "amount": 500,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 6000,
+          "amount": 1000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5200,
+          "amount": -800,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 4800,
+          "amount": -400,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 4500,
+          "amount": -300,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 6000,
+          "amount": 1500,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5250,
+          "amount": -750,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 4950,
+          "amount": -300,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 4800,
+          "amount": -150,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5600,
+          "amount": 800,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5700,
+          "amount": 100,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -994300,
+          "amount": -1000000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5700,
+          "amount": 1000000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -2300,
+          "amount": -8000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5700,
+          "amount": 8000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 5600,
+          "amount": -100,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -400,
+          "amount": -6000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -1400,
+          "amount": -1000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -400,
+          "amount": 1000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 4600,
+          "amount": 5000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": -100,
+          "amount": -4700,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 1900,
+          "amount": 2000,
+          "date": "28-4-2021"
+        }
+      ],
+      "max_overdraft": 1000
+    },
+    {
+      "type": "DEPOSIT",
+      "id": "897823",
+      "balance": 2250,
+      "history": [
+        {
+          "balance": 1000,
+          "amount": 1000,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 2500,
+          "amount": 500,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 1750,
+          "amount": -750,
+          "date": "28-4-2021"
+        },
+        {
+          "balance": 2250,
+          "amount": 500,
+          "date": "28-4-2021"
+        }
+      ],
+      "max_overdraft": 0
+    }
+  ]
+}
